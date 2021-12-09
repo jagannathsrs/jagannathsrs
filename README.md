@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagannathsrs&label=Profile%20views&color=0e75b6&style=flat" alt="jagannathsrs" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jagannathsrs" alt="jagannathsrs" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/jagannathsrs" target="blank"><img src="https://img.shields.io/twitter/follow/jagannathsrs?logo=twitter&style=for-the-badge" alt="jagannathsrs" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@jagannathsrs](https://medium.com/@jagannathsrs)
