@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagannathsrs&label=Profile%20views&color=0e75b6&style=flat" alt="jagannathsrs" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jagannathsrs" target="blank"><img src="https://img.shields.io/twitter/follow/jagannathsrs?logo=twitter&style=for-the-badge" alt="jagannathsrs" /></a> </p>
-
-- 📝 I regularly write articles on [https://medium.com/@jagannathsrs](https://medium.com/@jagannathsrs)
-
-- 💬 Ask me about **AWS Lambda, EKS**
-
-- 📫 How to reach me **jagannathsrs@gmail.com**
+## Contributed to:
+https://dl.acm.org/doi/fullHtml/10.1145/3573382.3616041 - GameAware Streaming Interfaces
+https://dl.acm.org/doi/fullHtml/10.1145/3586183.3606753 - The View from MARS: Empowering Game Stream Viewers with Metadata Augmented Real-time Streaming
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
